@@ -5,6 +5,9 @@
 </p>
 
 
+[Video](assets/cell_trace.mp4)
+
+
 A high-precision cellular network telemetry and site survey application built with Flutter. Designed for hardware engineers, IoT system integrators, and network technicians to audit field locations, evaluate primary and neighboring tower signal characteristics, and verify cellular viability before deploying cellular IoT devices.
 
 ## Features
